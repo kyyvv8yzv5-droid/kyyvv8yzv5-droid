@@ -19,6 +19,6 @@ The four source snapshots total **60,449 nonblank application lines**. The publi
 
 Python, FastAPI, TypeScript, React, Next.js, SQLite, computer vision, LLM tool calling and retrieval, automated testing, data analysis, and process automation.
 
-Development and portfolio preparation included AI assistance. The case studies describe verified capabilities and current limitations.
+Designed and developed using AI-assisted software engineering tools, including ChatGPT and Codex. The case studies describe verified capabilities and current limitations.
 
 [Engineering portfolio](https://kyyvv8yzv5-droid.github.io/engineering-portfolio/)
